@@ -58,7 +58,7 @@ function main(context : IExtensionContext) {
     });
     
     context.registerInstaller(
-        'bs-content', 
+        'fsam-customdata', 
         25, 
         testSupportedContent, 
         (files, destinationPath, gameId, progress) => installContent(files, destinationPath, gameId)

@@ -18,7 +18,7 @@ Because of how Fell Seal mods work, you will almost certainly hit incompatibilit
 
 You can install the extension either from the CI builds (click the Actions tab above), or by installing it directly from Vortex's Extensions pane. Restart Vortex and you should be good to go.
 
-> Most of the steps shown below will require Advanced Mode to be enabled in Vortex! Enable it in the Settings window, under Interface > Advanced > Enable Advanced Mode.
+> Most of the installation steps shown will require Advanced Mode to be enabled in Vortex! Enable it in the Settings window, under Interface > Advanced > Enable Advanced Mode.
 
 Please report any bugs or issues you find as I have only been able to complete some basic (and limited) testing with this extension.
 

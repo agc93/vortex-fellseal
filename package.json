@@ -1,6 +1,6 @@
 {
   "name": "game-fellsealarbitersmark",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Adds support for Fell Seal: Arbiter's Mark mods in Vortex",
   "main": "./dist/index.js",
   "scripts": {
